@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Proton and I'm a Proton from Ppybasic</h2>
+<h2 align="center">รับสอนการเขียนโปรแกรม Python พื้นฐาน แบบหนึ่งต่อหนึ่ง จาก Ppybasic</h2>
 
 ###
 
